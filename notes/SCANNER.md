@@ -1,15 +1,18 @@
+```
 Scanner class:
 import java.util.Sacnner;
+```
 
 In the main method, create a scanner obj that reads keyboard input.
 Scanner scan = new Scanner(System.in);
 "System.in" is the standard input stream.
 
-Scanner method is used to read in something input from the keyboard.
+Scanner method is used to 
+read in something input from the keyboard.
 Ensure that it is stored. 
-
+```
 int x = scan.nextInt();
-
+```
 .nextInt is a scanner method that brings up the cursor and wait for an integer to be typed in. 
 Upon the user pressing the Enter key, the input will be grabbed.
 

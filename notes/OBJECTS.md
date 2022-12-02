@@ -6,7 +6,7 @@ A Java class describes what an object can do - the behavior/methods.
 Constructors: Special methods used to initialize objects.
 
 Example: 
-
+```
 public class Main {
   int x;
 
@@ -19,7 +19,7 @@ public class Main {
     System.out.println(myObj.x);
   }
 }
-
+```
 Outputs 5
 
 CONSTRUCTOR NAMES MUST BE THE SAME AS THE CLASS NAME
