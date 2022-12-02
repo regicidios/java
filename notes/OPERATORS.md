@@ -1,5 +1,7 @@
 In java there are 5 arithmetic operators: 
-+ - * / % 
+```
++ - * / %
+``` 
 percent sign = modulus (remainder of division)
 
 modulus uses: 
