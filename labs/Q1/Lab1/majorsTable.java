@@ -20,4 +20,3 @@ public class majorsTable {
         System.out.println("\tJai\tKolkata\t\tComputer Science");
     }
 }
-    

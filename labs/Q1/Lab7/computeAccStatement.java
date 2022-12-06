@@ -40,7 +40,5 @@ public class computeAccStatement {
 		System.out.println("New Balance:        "+money.format(newBalance));
 		System.out.println();
 		System.out.println("Minimum Payment:    "+money.format(minPay));
-	
 	}
-
 }
