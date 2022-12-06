@@ -1,7 +1,7 @@
 package labs.Q2.Lab8;
 import java.util.Scanner;
 
-public class Lab8b {
+public class dateValidation {
     public static void main(String[] args)
     {
 	int month, day, year;   //date read in from user

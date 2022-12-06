@@ -1,7 +1,7 @@
 package labs.Q1.Lab6;
 import java.util.Scanner;
 
-public class Lab6 {
+public class funMath {
     // Main method
     public static void main(String[] args) {
         // Variable declarations
@@ -42,10 +42,7 @@ public class Lab6 {
         double distFormula = Math.sqrt(Math.pow(x1-x2, 2)+Math.pow(y1-y2, 2));
 
         // Output
-        String finalOutput = String.format("The distance between (%s,%s) and (%s, %s) is: %s", 
-                                            x1, y1, 
-                                            x2, y2, 
-                                            distFormula);
+        String finalOutput = String.format("The distance between (%s,%s) and (%s, %s) is: %s", x1, y1, x2, y2, distFormula);
         System.out.println(finalOutput);
     }
 }

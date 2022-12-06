@@ -1,7 +1,7 @@
 package labs.Q1.Lab3;
 import java.util.Scanner;
 
-public class Lab3 {
+public class roomPaint {
     public static void main(String[] args) {
         //Variable declaration
         int COVERAGE = 350;

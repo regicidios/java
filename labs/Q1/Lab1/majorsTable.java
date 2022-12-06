@@ -1,7 +1,6 @@
 package labs.Q1.Lab1;
 
-public class Lab1 {
-    
+public class majorsTable {
     public static void main(String[] args) {
 
         //Title

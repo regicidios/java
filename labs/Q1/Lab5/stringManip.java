@@ -1,6 +1,6 @@
 package labs.Q1.Lab5;
 
-public class Lab5 {
+public class stringManip {
 //This program will manipulate strings by utilizing functions pertaining to the String class.
     public static void main(String[] args) {
     String phrase = "lmfao lmfao lmao floats";

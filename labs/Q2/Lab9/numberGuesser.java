@@ -1,7 +1,7 @@
 package labs.Q2.Lab9;
 import java.util.Scanner;
 
-public class Lab9b {
+public class numberGuesser {
     public static void main(String[] args) {
 
         int randNum =(int)(Math.random() * 10 + 1);

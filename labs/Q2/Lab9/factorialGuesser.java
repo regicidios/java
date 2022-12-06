@@ -1,7 +1,7 @@
 package labs.Q2.Lab9;
 import java.util.Scanner;
 
-public class Lab9c {
+public class factorialGuesser {
     public static void main(String[] args) {
 
         Scanner factScan = new Scanner(System.in);

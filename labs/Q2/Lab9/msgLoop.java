@@ -1,7 +1,7 @@
 package labs.Q2.Lab9;
 import java.util.Scanner;
 
-public class Lab9a {
+public class msgLoop {
     public static void main(String[] args)
     {
        int times = 1; //variable to increment loop
@@ -18,10 +18,7 @@ public class Lab9a {
           times++;
        }   
        
-       String finalOutput = String.format("Printed this message %s times.  The sum of the numbers from 1 to %s is %d.", 
-                                          printNum, 
-                                          printNum, 
-                                          numSum);
+       String finalOutput = String.format("Printed this message %s times.  The sum of the numbers from 1 to %s is %d.", printNum, printNum, numSum);
        System.out.print(finalOutput);   
     }
  }

@@ -2,7 +2,7 @@ package labs.Q1.Lab7;
 import java.util.Scanner;
 import java.text.NumberFormat;
 
-public class Lab7a {
+public class computeAccStatement {
     // main method
 	public static void main(String[] args) {
 		System.out.println("CS International Statement");

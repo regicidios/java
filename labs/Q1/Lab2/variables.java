@@ -1,8 +1,8 @@
 package labs.Q1.Lab2;
 
-public class Lab2 {
+public class variables {
     public static void main(String[] args) {
-        //Variable declaration/initialization
+        //Variable declaration
         boolean isTrue=false;
         double money=9999999.99;
         int age=50; int iq=age;

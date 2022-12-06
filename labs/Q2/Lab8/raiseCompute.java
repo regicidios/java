@@ -2,7 +2,7 @@ package labs.Q2.Lab8;
 import java.util.Scanner;
 import java.text.NumberFormat;
 
-public class Lab8a {
+public class raiseCompute {
     public static void main (String[] args)
     {
        double currentSalary;  // employee's current  salary

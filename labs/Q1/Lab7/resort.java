@@ -1,7 +1,7 @@
 package labs.Q1.Lab7;
 import java.util.Scanner;
 
-public class Lab7b {
+public class resort {
     	// main method 
 	public static void main(String[] args) {
 		// scanner instantiation
@@ -31,5 +31,4 @@ public class Lab7b {
 			System.out.print("Visit our shops!");
 		}
 	}
-
 }
